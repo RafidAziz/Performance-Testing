@@ -11,3 +11,9 @@ It is an ongoing work in progress.
 ## Tech Stack
 - BlazeMeter
 - JMeter
+
+## Backlog (Subject to Changes)
+1. Functional Testing
+2. Service Virtualization
+3. Performance Testing
+4. API Monitoring
