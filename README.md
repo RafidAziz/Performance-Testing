@@ -17,5 +17,5 @@ It is an ongoing work in progress.
 - API Monitoring 
 
 ## Current Task
-- Service Virtualization
-  - Start Mocking Now Wizard
+- Performance Testing
+  - 'Configure a Test' section
