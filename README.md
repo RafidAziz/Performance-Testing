@@ -18,4 +18,4 @@ It is an ongoing work in progress.
 
 ## Current Task
 - Performance Testing
-  - 'Configure a Test' section
+  - 'Configure Load' section
