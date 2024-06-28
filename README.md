@@ -13,9 +13,9 @@ It is an ongoing work in progress.
 - JMeter
 
 ## Backlog (Subject to Changes)
-- Performance Testing
-- API Monitoring 
+- Performance Testing on Amazon
 
 ## Current Task
-- Performance Testing
-  - 'Configure Load' section
+- Performance Testing on Mock API
+  - Screen record performance test execution
+  - Upload performance test result
