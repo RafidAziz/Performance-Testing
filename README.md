@@ -7,6 +7,11 @@ It is an ongoing work in progress.
 
 <img width="1107" alt="image" src="https://github.com/RafidAziz/Performance-Testing/assets/167278169/57b66016-acc5-454b-9285-255f6b5887ed">
 
+## Mock API Performance Test Report
+
+https://github.com/RafidAziz/Performance-Testing/assets/167278169/e8ccc556-1a6f-48a9-a12f-57b5b5fb4ebc
+
+
 
 ## Tech Stack
 - BlazeMeter
