@@ -11,16 +11,12 @@ It is an ongoing work in progress.
 
 https://github.com/RafidAziz/Performance-Testing/assets/167278169/e8ccc556-1a6f-48a9-a12f-57b5b5fb4ebc
 
-
-
 ## Tech Stack
 - BlazeMeter
 - JMeter
 
 ## Backlog (Subject to Changes)
-- Performance Testing on Amazon
+- Performance Testing on Postman Echo API
 
 ## Current Task
-- Performance Testing on Mock API
-  - Screen record performance test execution
-  - Upload performance test result
+- Performance Testing on Amazon
