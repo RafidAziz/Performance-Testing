@@ -19,4 +19,4 @@ https://github.com/RafidAziz/Performance-Testing/assets/167278169/e8ccc556-1a6f-
 - Performance Testing on Postman Echo API
 
 ## Current Task
-- Performance Testing on Amazon
+- Performance Testing on WordPress
