@@ -20,7 +20,6 @@ https://github.com/RafidAziz/Performance-Testing/assets/167278169/bcdb9ddf-d86e-
 - JMeter
 
 ## Backlog (Subject to Changes)
-- Performance Testing on Postman Echo API
 
 ## Current Task
-- Performance Testing on WordPress
+- Performance Testing on Postman Echo API
