@@ -28,4 +28,4 @@ https://github.com/RafidAziz/Performance-Testing/assets/167278169/bcdb9ddf-d86e-
 ## Backlog (Subject to Changes)
 
 ## Current Task
-- Performance Testing on Postman Echo API
+- Read best practices
